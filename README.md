@@ -3,9 +3,7 @@
 
 > **C++17 path-planning engine that packs and routes city-wide deliveries for up to three vans on a 25 × 25 grid—balancing capacity and distance with an A*-driven solver.**
 
-![SmartRoute banner](docs/banner.png) <!-- optional; replace or remove -->
 
----
 
 ## Table of Contents
 1. [Key Features](#key-features)  
