@@ -11,12 +11,7 @@
 1. [Key Features](#key-features)  
 2. [Tech Stack](#tech-stack)  
 3. [Quick Start](#quick-start)  
-4. [Usage](#usage)  
-5. [Project Structure](#project-structure)  
-6. [Testing](#testing)  
-7. [Roadmap](#roadmap)  
-8. [Contributing](#contributing)  
-9. [License](#license)
+
 
 ---
 
