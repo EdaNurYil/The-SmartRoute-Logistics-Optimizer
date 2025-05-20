@@ -1,0 +1,24 @@
+﻿  UnitTest1.cpp
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(153,19): warning C4101: 'packages': unreferenced local variable
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(167,43): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(167,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(369,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(369,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(370,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(370,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(388,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(388,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(389,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(389,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(411,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(411,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(412,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(412,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(434,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(434,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(435,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(435,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(488,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(489,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\UnitTest1\UnitTest1.cpp(490,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\ed4yi\OneDrive\Masaüstü\SFT\Project\x64\Debug\UnitTest1.dll

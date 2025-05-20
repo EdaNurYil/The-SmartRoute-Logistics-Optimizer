@@ -1,0 +1,21 @@
+Sample Output
+=================
+Seneca Polytechnic Deliveries:
+=================
+Enter shipment weight, box size and destination (0 0 x to stop): 20 5 28x
+Invalid destination
+Enter shipment weight, box size and destination (0 0 x to stop): 20 4 12L
+Invalid size
+Enter shipment weight, box size and destination (0 0 x to stop): 2100 2 12L
+Invalid weight (must be 1-2000 Kg.)
+Enter shipment weight, box size and destination (0 0 x to stop): 20 2 12L
+Ship on BLUE LINE, no diversion
+Enter shipment weight, box size and destination (0 0 x to stop): 1900 1 8Y
+Ship on GREEN LINE, divert: 7T, 7U, 7V, 7W, 7X, 7Y, 8Y
+Enter shipment weight, box size and destination (0 0 x to stop): 1900 1 8Y
+Ship on GREEN LINE, divert: 7T, 7U, 7V, 7W, 7X, 7Y, 8Y
+Enter shipment weight, box size and destination (0 0 x to stop): 1900 1 8Y
+Ship on BLUE LINE, divert 18V, 17V, 16V, 15V, 14V, 13V, 12V, 11V, 10V, 9V,
+8V, 7V, 7W, 7X, 7Y, 8Y
+Enter shipment weight, box size and destination (0 0 x to stop): 0 0 x
+Thanks for shipping with Seneca Polytechnic!
