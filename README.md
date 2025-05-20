@@ -2,7 +2,7 @@
 
 
 > **C++17 path-planning engine that packs and routes city-wide deliveries for up to three vans on a 25 × 25 grid—balancing capacity and distance with an A*-driven solver.**
-
+![Image](https://github.com/user-attachments/assets/1ffbeb12-a3e2-4216-8e6e-16bbd76ad119)
 
 
 ## Table of Contents
